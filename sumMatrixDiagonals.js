@@ -8,7 +8,7 @@ const matrix = [
 const totals = matrix.reduce(
   (acc, value, index) => {
     acc.ltr += matrix[index][index];
-    acc.rtl += matrix[matrix.length - 1 - index][matrix.length - 1 - index];
+    acc.rtl += matrix[matrix.length - index - 1][matrix.length - index - 1];
     return acc;
   },
   { ltr: 0, rtl: 0 }
