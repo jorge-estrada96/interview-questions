@@ -1,3 +1,4 @@
+// Purpose: Builds a character frequency map from a string using Array.reduce and logs the result.
 const string = "Lets count the repeats of the words in this string";
 const splittedString = string.toLocaleLowerCase().split("");
 

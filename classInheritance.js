@@ -1,3 +1,4 @@
+// Purpose: Demonstrates ES6 class inheritance and prototype extension with an Animal/Dog example.
 class Animal {
   constructor(name) {
     this.name = name;

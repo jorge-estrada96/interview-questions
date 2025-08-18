@@ -1,3 +1,4 @@
+// Purpose: Defines mock data for couriers, packages, and status constants used by the xelivery assignment logic.
 const Couriers = [
   {
     name: "Euler",

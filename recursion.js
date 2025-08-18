@@ -1,3 +1,4 @@
+// Purpose: Converts a nested JSON-like tree into an HTML string using recursion and configurable indentation.
 const elements = {
   tag: "ul",
   children: [

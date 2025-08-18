@@ -1,3 +1,4 @@
+// Purpose: Finds the first non-repeating string in an array by excluding the current index and checking membership.
 const words = [
   "manzana",
   "pera",

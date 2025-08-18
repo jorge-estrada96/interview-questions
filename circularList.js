@@ -1,3 +1,4 @@
+// Purpose: Demonstrates a circular linked list with add and single-pass traversal (flatten) using an example.
 class Node {
   constructor(name) {
     this.name = name;

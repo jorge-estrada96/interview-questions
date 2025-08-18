@@ -1,3 +1,4 @@
+// Purpose: Computes sums of the left-to-right and right-to-left diagonals of a square matrix using reduce.
 const matrix = [
   [1, 2, 3, 4],
   [4, 5, 6, 7],

@@ -1,3 +1,4 @@
+// Purpose: Implements a simple undirected weighted graph, prints connections, and sketches minimal path weight update logic.
 class Node {
   constructor(name) {
     this.name = name

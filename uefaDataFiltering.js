@@ -1,3 +1,4 @@
+// Purpose: Fetches UEFA 2015 match data, aggregates match counts per team across pages, and prints teams with exactly 7 matches.
 const axios = require('axios')
 
 

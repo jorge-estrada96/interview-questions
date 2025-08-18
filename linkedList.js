@@ -1,3 +1,4 @@
+// Purpose: Demonstrates a singly linked list with node insertion (add) and linear traversal (flatten).
 class Node {
   constructor(name) {
     this.name = name;
