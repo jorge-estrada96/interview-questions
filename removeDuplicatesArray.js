@@ -1,3 +1,4 @@
+// Purpose: Removes duplicate strings from an array using filter with indexOf to keep first occurrences.
 const words = [
   "manzana",
   "pera",

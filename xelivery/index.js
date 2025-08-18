@@ -1,3 +1,4 @@
+// Purpose: Assigns packages to couriers up to capacity, marks remaining as delayed, and prints shipments and delayed lists.
 const { Couriers, Packages, STATUSES } = require("./data");
 
 const assignCourierPackages = (courier, startIndex) => {

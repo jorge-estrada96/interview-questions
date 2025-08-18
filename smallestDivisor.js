@@ -1,3 +1,4 @@
+// Purpose: Finds the smallest divisor such that the sum of ceil divisions of an array is within a threshold.
 const divideAndSum = (nums, divisor) => {
   return nums.reduce((acc, num) => acc + Math.ceil(num / divisor), 0);
 };

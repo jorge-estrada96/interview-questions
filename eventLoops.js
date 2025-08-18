@@ -1,3 +1,4 @@
+// Purpose: Illustrates JavaScript event loop ordering between synchronous logs, setTimeout, and Promise resolution.
 console.log(1);
 
 setTimeout(() => console.log(2), 200);

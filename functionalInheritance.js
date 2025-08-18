@@ -1,3 +1,4 @@
+// Purpose: Demonstrates prototypal inheritance using constructor functions and Object.create.
 function animal(name) {
   this.name = name;
 }

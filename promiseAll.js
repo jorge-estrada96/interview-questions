@@ -1,3 +1,4 @@
+// Purpose: Sequentially awaits an array of promises (or values) and returns their resolved outputs; example included.
 async function promisesAll(promises) {
   const outputs = [];
 
